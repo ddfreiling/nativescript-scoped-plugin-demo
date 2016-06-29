@@ -1,5 +1,5 @@
 import {Observable} from 'data/observable';
-import {YourPlugin} from '@scope/nativescript-yourplugin';
+import {YourPlugin} from 'nativescript-yourplugin';
 
 export class HelloWorldModel extends Observable {
   public message: string;
